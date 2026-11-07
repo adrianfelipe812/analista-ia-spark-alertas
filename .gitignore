@@ -1,0 +1,7 @@
+# Datos institucionales: no se publican
+*.xlsx
+*.csv
+data/
+.env
+__pycache__/
+.ipynb_checkpoints/
