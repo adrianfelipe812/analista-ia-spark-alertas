@@ -59,3 +59,7 @@ El archivo de datos **no se incluye** en este repositorio porque contiene inform
 ## Tecnologías
 
 PySpark · Gradio · OpenAI SDK (GLM de Z.ai) · Docker · Hugging Face Spaces
+
+## Licencia
+
+El contenido de este repositorio (código, documentos y figuras propias) se publica bajo la licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es): puede compartirse y adaptarse citando a los autores. Ver [`LICENSE`](LICENSE). El archivo de datos `SistemadeAlertas.xlsx` no forma parte del repositorio ni de esta licencia.
